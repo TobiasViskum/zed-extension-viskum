@@ -1,0 +1,4 @@
+name = "Viskum Language"
+grammar = "viskum-language"
+path_suffixes = ["vs", "vsc"]
+line_comments = ["// "]
