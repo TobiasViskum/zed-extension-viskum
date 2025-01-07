@@ -8,4 +8,4 @@ repository = "https://github.com/TobiasViskum/zed-extension-viskum"
 
 [grammars.viskum]
 repository = "https://github.com/TobiasViskum/tree-sitter-viskum"
-rev = "364d298a4a00892b6d4ad006fa6efd2ab84d057a"
+commit = "364d298a4a00892b6d4ad006fa6efd2ab84d057a"
