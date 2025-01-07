@@ -1,5 +1,5 @@
 [package]
-name = "viskum-tree-sitter"
+name = "zed-extension-viskum"
 version = "0.1.0"
 edition = "2021"
 

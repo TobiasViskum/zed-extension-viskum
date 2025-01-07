@@ -1,4 +1,4 @@
-id = "viskum-tree-sitter"
+id = "zed-extension-viskum"
 name = "Viskum Tree Sitter"
 version = "0.0.1"
 schema_version = 1
