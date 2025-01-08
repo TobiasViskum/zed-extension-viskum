@@ -1,0 +1,5 @@
+[
+    "fn"
+    "struct"
+    "enum",
+] @keyword
